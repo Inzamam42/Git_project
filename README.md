@@ -1,3 +1,3 @@
 # Git_project
 this is git project
-in this we cover all command
+<br in this we cover all command
