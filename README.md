@@ -4,4 +4,4 @@ this is git project
 <br>
 Author: IUH 
 <br>
-in this we cover all command 
+in this we will cover all command of git and github
